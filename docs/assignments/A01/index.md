@@ -10,5 +10,5 @@
 
 
 ## Communicate
-Check about me for this information
+Check "about me" for this information
 
