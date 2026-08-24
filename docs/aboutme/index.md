@@ -1,6 +1,6 @@
 #About Me
 
-<img src="headshot.jpg" alt="Evan Blanco headshot" width="220" style="float: right; margin-left: 25px; margin-bottom: 15px; border-radius: 8px;">
+<img src="headshot.jpg.png" alt="Evan Blanco headshot" width="220" style="float: right; margin-left: 25px; margin-bottom: 15px; border-radius: 8px;">
 
 My name is Evan Blanco. I am a junior studying Mechanical Engineering at the University of North Carolina at Charlotte. I chose mechanical engineering because I have always enjoyed building things since I was a kid. I have always been interested in how things work and how I can make them better. My dad also influenced my decision to become an engineer. He works for an engineering firm and has helped guide me throughout my education. His experience has helped me learn more about engineering and what I can expect from the field.
 
