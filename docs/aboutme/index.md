@@ -1,3 +1,13 @@
 #About Me
 This is how to edit
-Hi my name is, Evan Blanco. Im currently a Junior at The University of North Carolina at Charlotte. Im studying mechanical engineering with a concentration in motorsports. 
+About Me
+
+My name is Evan Blanco. I am a junior studying Mechanical Engineering at the University of North Carolina at Charlotte. I chose mechanical engineering because I have always enjoyed building things since I was a kid. I have always been interested in how things work and how I can make them better. My dad also influenced my decision to become an engineer. He works for an engineering firm and has helped guide me throughout my education. His experience has helped me learn more about engineering and what I can expect from the field.
+
+
+
+My path through school has taught me the importance of hard work and patience. I was not always the strongest student growing up. Over time I learned how to study better and take my time with my assignments. I have also learned how important it is to understand the material instead of just trying to finish the work. These skills have helped me become a better student and have also improved my problem-solving and critical-thinking skills.
+
+
+
+My concentration in mechanical engineering is motorsports. I am interested in motorsports because I enjoy the mechanical side of vehicles and the hands on work involved. I currently have experience with Creo and Microsoft programs. I also have basic coding skills and experience with 3D printing. I am still figuring out what type of engineering career I want to pursue. Construction engineering is one option that interests me. I know that I would like a career where I can work outside and be hands on. My goal is to continue building my skills and gaining experience so I can become a successful engineer who can solve problems and work well in the field.
