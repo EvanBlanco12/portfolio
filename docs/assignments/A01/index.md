@@ -79,16 +79,16 @@ The original patent also uses a rubber surface where the doorstop contacts the f
 
 ## Decide
 1. Homepage Identity
-
+The homepage of my portfolio is really designed for me to give my professors, engineers, and potential employers a better direct understanding of what the website contains. Its an introduction complying the records of my mechanical engineering work completed throughout the semester and explains that each assignment is organized to show the analysis, decision, and reasoning behind the final result. The homepage main goal is also to provide simple navigation to each assignment so a visitor can quickly locate specific work. This allows the reader to understand the purpose and organization of the portfolio without having to spend time searching for content. 
 
 
 2. One Intentional Customization
-
+ 
 
 
 
 3. My Documentation Standard
-
+For every assignment in this portfolio, I will provide enough information, calculations, assumptions, and reasoning for another engineering student to understand how I reached my final result and reproduce my work without needing additional explanation. 
 
 ## Communicate
 #About Evan
