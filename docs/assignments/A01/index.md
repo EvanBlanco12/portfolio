@@ -1,6 +1,9 @@
 # A1 – Create a Portfolio
 
 ## Analyze
+
+
+
 **Task A- Portfolio Review #1 -https://rjmeade.github.io/**
 "Rick Meade"-Mechanical Engineering
 
@@ -16,7 +19,9 @@ Rick once again does a particularly good job in showing his engineering reasonin
 **-Professional Tone**
 Rick's writing uses technical engineering terminology and focuses on these 5 things specifically, requirements, calculation, simulations, testing, and lastly design decisioning. For example, he discusses momentum impulse calculations, static load simulation, factory of safety, and material selection. This makes the portfolio appropriate for an engineering employer to check out his technical skills.
 
-**Task A- Portfolio Review #2 -https://tylerwisniewski.github.io/**
+ 
+ 
+ **Task A- Portfolio Review #2 -https://tylerwisniewski.github.io/**
 "Tyle Wisniewski"-Mechanical Engineering
 
 **-Navigability**
@@ -30,6 +35,8 @@ Tyler shows an amazing job of the reasoning behind his decisions. For example, i
 
 **-Professional Tone**
 Tyler's portfolio also uses technical language and provides specific engineering results instead of only making general claims. His projects include CFD, FEA, manufacturing methods, material properties, and quantitative results. For example, his surfboard fin project reports specific lift, drag, and factors of safety values. THis gives an employer tons of evidence of the engineering projects he has done. 
+
+
 
 **Task B: Product Analysis For this task, I selected a Wedge Doorstopper**
 
@@ -66,6 +73,8 @@ Title: Door-Stop
 `Once important design decision is the use of a tapered wedge instead of using a rectangular block. The tapered geometry allows the doorstop to fit into different sized gaps between the bottom of the door and the floor space. The thin end can enter a small gap and when pushing the wedge farther underneath the door increases the content force between the door, doorstop, and floor. 
 
 The original patent also uses a rubber surface where the doorstop contacts the floor. I believe this was selected to increases friction and prevent the doorstop from sliding across the floor when the door applies force to it. This allows the device to hold the door using friction rather than requiring the doorstop to be permanently attached to the floor. 
+
+
 
 ## Decide
 1. Homepage Identity
