@@ -31,7 +31,30 @@ Tyler shows an amazing job of the reasoning behind his decisions. For example, i
 -Professional Tone
 Tyler's portfolio also uses technical language and provides specific engineering results instead of only making general claims. His projects include CFD, FEA, manufacturing methods, material properties, and quantitative results. For example, his surfboard fin project reports specific lift, drag, and factors of safety values. THis gives an employer tons of evidence of the engineering projects he has done. 
 
-Task B: Product Analysis For this task, I selected 
+Task B: Product Analysis For this task, I selected a Wedge Doorstopper
+
+A-Primary Function
+The primary function of a doorstopper is to prevent a hinged door from moving by wedging between the bottom of the door and the floor and using friction to resist sliding. In easier terms this basically means we can use an object to keep a door in place from swinging in different directions or simply moving at all. The angled surface converts the force from the door into normal forces between the doorstop, door, and floor. These forces create friction that keep the doorstop from being pushed out of its position. 
+
+B(i+ii)-Governing Model
+Main equation> [F_f=/mu_s N]
+where as,
+(F-f)= maximum static friction force
+(/mu_s)= coefficient of static friction between the doorstop and floor
+(N)= normal force between the doorstop and floor
+
+Something worth Noticing:
+The wedge angle also affects how the force from the door is transformed through the doorstop. A smaller wedge angle generally provides greater mechanical advantage because the wedge can generate a large normal force for a given force from the door. 
+
+Once assumption is that the doorstop behaves as a rigid body and does not significantly deform while the door is applying force to it. This allows the wedge to be analyzed using static equilibrium and friction equations without accounting for significant deformation of the doorstop. 
+
+-Component Geometry
+
+
+
+
+The doorstop can be modeled as an incline plate wedge in static equilibrium. For the doorstop to remain stationary the frictional force resisting motion must be greater than the force attempting to push the doorstop out from underneath the door. 
+
 
 ## Decide
 
