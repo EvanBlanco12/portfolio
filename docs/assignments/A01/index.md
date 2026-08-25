@@ -1,10 +1,3 @@
-theme:
-  name: material
-  palette:
-    scheme: slate
-    primary: green
-    accent: light green
-
 
 # A1 – Create a Portfolio
 
