@@ -83,9 +83,7 @@ The homepage of my portfolio is really designed for me to give my professors, en
 
 
 2. One Intentional Customization
- 
-
-
+I choose to customize the portfolio color scheme by using a darker green theme. I selected this color because it gives the site a clean and professional appearance while also making it feel more distinct from the original template. 
 
 3. My Documentation Standard
 For every assignment in this portfolio, I will provide enough information, calculations, assumptions, and reasoning for another engineering student to understand how I reached my final result and reproduce my work without needing additional explanation. 
