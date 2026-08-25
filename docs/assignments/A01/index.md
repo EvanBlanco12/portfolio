@@ -57,7 +57,9 @@ The wedge angle also affects how the force from the door is transformed through 
 Once assumption is that the doorstop behaves as a rigid body and does not significantly deform while the door is applying force to it. This allows the wedge to be analyzed using static equilibrium and friction equations without accounting for significant deformation of the doorstop. 
 
 **-Component Geometry**
-<img src="IMG_6569.jpeg" alt="3D printed doorstop" width="500">
+<div style="text-align: center; margin: 20px 0;">
+  <img src="IMG_6569.jpeg" alt="3D printed doorstop" style="width: 500px; max-width: 100%; height: auto;">
+</div>
 The doorstop consists of one primary mechanical component that would be the wedge shaped body. One end is thin and gradually increases in thickness towards the opposite end. This tapered geometry allowed the doorstop to enter the small gap between the bottom of the door and the floor.
 
 **-Patent Research**
