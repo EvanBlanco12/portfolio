@@ -25,6 +25,10 @@ After applying the parameters and relations, Creo generated the final bar with a
 <img width="592" height="761" alt="assignment 3#4" src="https://github.com/user-attachments/assets/8d45a97a-ebcb-4573-b004-ff95ee84c072" />
 
 
+## Design Reflection/Pin-hole stress concentration
+<img width="588" height="742" alt="assignment 3#5" src="https://github.com/user-attachments/assets/bd2f14db-fc4c-4291-a424-c244c59ba844" />
+
+
 
 ## Communicate
 Final reflect
