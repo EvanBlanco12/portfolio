@@ -30,5 +30,6 @@ This project took approximately 4 hours to complete
 
 Creo links
 Model 1:
+[assignment 3#4.pdf](https://github.com/user-attachments/files/31935634/assignment.3.4.pdf)
 
 
