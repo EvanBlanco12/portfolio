@@ -1,4 +1,3 @@
-<img width="592" height="761" alt="assignment 3#4" src="https://github.com/user-attachments/assets/6e7d3184-80d6-45db-9b87-ab37707b32c0" />
 # A3 – Parametric and FEA
 
 ## Objective
