@@ -1,13 +1,22 @@
-# A3 – [Topic]
+# A3 – Parametric and FEA
 
 ## Objective
-
+This assignment is about designing a bar that is strong and stiff enough to handle an axial load. Parametric modeling and finite element analysis (FEA) are used to see how the force, size, and material of the bar affect how much it bends or stretches. The results are then used to create and test a suitable bar design.
 
 ## Analyze
+<img width="1577" height="635" alt="assignment 3#3" src="https://github.com/user-attachments/assets/06e5f2c9-3326-495f-99c7-30c30a2729cf" />
+<img width="1600" height="637" alt="assignment 3#2" src="https://github.com/user-attachments/assets/a6faea81-2a42-40ae-9cd1-70a6d988ef06" />
+<img width="1263" height="204" alt="assignment 3" src="https://github.com/user-attachments/assets/036303a0-49c5-4ac2-b49a-b34920912cad" />
 
 
 ## Decide
 
 
 ## Communicate
+Final reflect
+This project took approximately 4 hours to complete
+
+Creo links
+Model 1:
+
 
