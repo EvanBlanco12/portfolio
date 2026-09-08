@@ -1,3 +1,4 @@
+<img width="592" height="761" alt="assignment 3#4" src="https://github.com/user-attachments/assets/6e7d3184-80d6-45db-9b87-ab37707b32c0" />
 # A3 – Parametric and FEA
 
 ## Objective
@@ -22,7 +23,8 @@ After applying the parameters and relations, Creo generated the final bar with a
 
 
 ## Calculations
-https://mail.google.com/mail/u/0?ui=2&ik=a21d0addff&attid=0.1&permmsgid=msg-a:r-2618868676369058083&th=1a07f27487259a1e&view=att&disp=inline&realattid=D4423B09-9E3B-43F8-9047-C7AD24B6C506&zw
+<img width="592" height="761" alt="assignment 3#4" src="https://github.com/user-attachments/assets/8d45a97a-ebcb-4573-b004-ff95ee84c072" />
+
 
 
 ## Communicate
