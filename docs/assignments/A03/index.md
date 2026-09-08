@@ -21,7 +21,8 @@ After applying the parameters and relations, Creo generated the final bar with a
 <img width="1263" height="204" alt="assignment 3" src="https://github.com/user-attachments/assets/036303a0-49c5-4ac2-b49a-b34920912cad" />
 
 
-## Decide
+## Calculations
+
 
 
 ## Communicate
