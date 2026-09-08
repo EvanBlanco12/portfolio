@@ -22,7 +22,7 @@ After applying the parameters and relations, Creo generated the final bar with a
 
 
 ## Calculations
-
+https://mail.google.com/mail/u/0?ui=2&ik=a21d0addff&attid=0.1&permmsgid=msg-a:r-2618868676369058083&th=1a07f27487259a1e&view=att&disp=inline&realattid=D4423B09-9E3B-43F8-9047-C7AD24B6C506&zw
 
 
 ## Communicate
