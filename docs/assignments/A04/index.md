@@ -31,9 +31,11 @@ Here are the steps of me making the Motor Mount in CAD:
 
 <img width="245" height="274" alt="image" src="https://github.com/user-attachments/assets/dce34f2a-9c34-4f64-880f-90139f3d34c0" />
 
+## Lessons Learned
+This assignment taught me more about the process of designing a component to withstand a specific load. I learned how the size and shape of the motor mount influence both the stress and the amount of deflection. I also gained a better understanding of why checking the results against the material's yield strength is important for creating a safe design.
 
 ## Communicate
 This assignment took me 6 hours
+CAD Files:
+https://drive.google.com/file/d/1v5PITs8Axd559LbcoZLZKvV0E4jeKU80/view?usp=sharing
 
-## Lessons Learned
-This assignment taught me more about the process of designing a component to withstand a specific load. I learned how the size and shape of the motor mount influence both the stress and the amount of deflection. I also gained a better understanding of why checking the results against the material's yield strength is important for creating a safe design.
