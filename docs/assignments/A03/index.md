@@ -41,12 +41,11 @@ The bar was analyzed using a 400 lbf axial load. The maximum stress was approxim
 
 he deflection map shows the displacement of the bar under the applied load. The maximum deflection occurs near the free end of the bar, while the minimum deflection occurs at the fixed end.
 
-## Communicate
-Final reflect
-This project took approximately 4 hours to complete
-
 ## Lesson Learn
 This assignment helped me better understand how hand calculations and FEA can be used together to analyze a part. I learned how to generate and interpret both a Von Mises stress map and a deflection map in Creo. I also learned that even when the nominal stress of a part is low, features such as holes can create stress concentrations that increase the maximum stress in that area. Comparing my hand calculations with the FEA results also showed me how assumptions, boundary conditions, and the way loads are applied can affect the final results.
+
+## Communicate
+This project took approximately 4 hours to complete
 
 Creo links
 Model 1:
