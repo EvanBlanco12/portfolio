@@ -1,4 +1,4 @@
-# A4 – [Topic]
+# A4 – [Motor Mount]
 
 ## Objective
 For this project, a motor mount will be designed to support a Brushed 24V DC gear motor with a 99.5:1 planetary gearbox and a rating of 3.6 kg·cm/46 RPM. One edge of the mount will be secured to a rigid wall. The mount must be designed in two stages while meeting the required maximum deflection of about 0.3 mm and preventing the stress in either feature from exceeding the selected material's yield strength. The first figure contains the dimensions needed to model the motor, and the second figure illustrates the location and direction of the applied load of P = 300 N. These figures provide the main information needed to complete the motor mount design.
