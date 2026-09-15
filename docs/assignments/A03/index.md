@@ -28,6 +28,7 @@ After applying the parameters and relations, Creo generated the final bar with a
 
 ## Design Reflection/Pin-hole stress concentration
 <img width="588" height="742" alt="assignment 3#5" src="https://github.com/user-attachments/assets/bd2f14db-fc4c-4291-a424-c244c59ba844" />
+The estimated peak stress at the pinhole is still below the aluminum yield strength of 40 ksi. Therefore, the bar with the pinhole would still pass the required safety requirement.
 
 ## FEA
 <img width="2048" height="1115" alt="c670c2fd-7260-4de9-a74d-cbcb474ea4c8" src="https://github.com/user-attachments/assets/1f4717af-5b3b-4e69-9d2b-96f2aa7914ba" />
@@ -37,6 +38,9 @@ The bar was analyzed using a 400 lbf axial load. The maximum stress was approxim
 ## Communicate
 Final reflect
 This project took approximately 4 hours to complete
+
+## Lesson Learn
+This assignment helped me better understand how hand calculations and FEA can be used together to analyze a part. I learned how to generate and interpret both a Von Mises stress map and a deflection map in Creo. I also learned that even when the nominal stress of a part is low, features such as holes can create stress concentrations that increase the maximum stress in that area. Comparing my hand calculations with the FEA results also showed me how assumptions, boundary conditions, and the way loads are applied can affect the final results.
 
 Creo links
 Model 1:
