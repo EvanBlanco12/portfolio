@@ -28,12 +28,18 @@ After applying the parameters and relations, Creo generated the final bar with a
 
 ## Design Reflection/Pin-hole stress concentration
 <img width="588" height="742" alt="assignment 3#5" src="https://github.com/user-attachments/assets/bd2f14db-fc4c-4291-a424-c244c59ba844" />
+
 The estimated peak stress at the pinhole is still below the aluminum yield strength of 40 ksi. Therefore, the bar with the pinhole would still pass the required safety requirement.
 
 ## FEA
 <img width="2048" height="1115" alt="c670c2fd-7260-4de9-a74d-cbcb474ea4c8" src="https://github.com/user-attachments/assets/1f4717af-5b3b-4e69-9d2b-96f2aa7914ba" />
 The bar was analyzed using a 400 lbf axial load. The maximum stress was approximately 8.15 ksi, which is below the aluminum yield strength of 40 ksi, giving a safety factor of approximately 4.91; therefore, the bar passes the strength requirement.
 
+## FEA Deflection Map
+<img width="1916" height="733" alt="image" src="https://github.com/user-attachments/assets/a9ffec63-8886-437c-bc7b-04aea6b60ca4" />
+
+
+he deflection map shows the displacement of the bar under the applied load. The maximum deflection occurs near the free end of the bar, while the minimum deflection occurs at the fixed end.
 
 ## Communicate
 Final reflect
