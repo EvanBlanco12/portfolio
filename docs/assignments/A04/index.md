@@ -28,6 +28,7 @@ Isometric View of my Motor Mount
 <img width="808" height="755" alt="image" src="https://github.com/user-attachments/assets/77cf0ee5-7bd6-411e-8d8a-f0621b7022cb" />
 
 Here are the steps of me making the Motor Mount in CAD:
+
 <img width="245" height="274" alt="image" src="https://github.com/user-attachments/assets/dce34f2a-9c34-4f64-880f-90139f3d34c0" />
 
 
