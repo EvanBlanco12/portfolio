@@ -1,5 +1,7 @@
 # A5 – [Bracket Design]
 <img width="499" height="236" alt="image" src="https://github.com/user-attachments/assets/13aa462d-19dc-44c0-b243-21136f457238" />
+
+
 The objective of this project is to design a symmetric bracket that safely supports a 500 lbf load using 6061-T6 aluminum and a safety factor of 4. Stress and stiffness calculations are used to determine the required dimensions while limiting deflection to 0.005 inches.
 
 ## Objective
