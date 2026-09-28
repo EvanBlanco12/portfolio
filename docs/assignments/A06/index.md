@@ -15,4 +15,6 @@ The goal of this assignment was to create a CAD model and engineering drawing ba
 
 
 ## Communicate/Lesson Learned
+This assignment helped me relearn the difference between first and third angle projections and how to properly set up an engineering drawing. I also learned more about using parameters and equations in Creo to make a model easier to modify. Creating the drawing helped me improve at placing dimensions, setting tolerances, creating different views, and editing the title block. I also learned how important it is to keep parameter names and dimensions organized throughout the modeling process. Overall, this assignment helped me become more comfortable with Creo and improved my CAD and engineering drawing skills.
 
+This assignment took me BLANK hours
