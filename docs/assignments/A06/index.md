@@ -3,11 +3,14 @@
 ## Objective
 
 
-## Analyze
+## Parametric Design 
 
 
-## Decide
+## Drawing 
 
 
-## Communicate
+## Reflection 
+
+
+## Communicate/Lesson Learned
 
