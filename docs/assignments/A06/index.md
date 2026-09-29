@@ -17,6 +17,7 @@ The motor mount was modeled parametrically in Creo using the dimensions determin
 
 
 ## Drawing 
+<img width="880" height="722" alt="image" src="https://github.com/user-attachments/assets/b49803ff-fd84-400e-ac20-7ad7120d24ef" />
 
 
 ## Reflection 
