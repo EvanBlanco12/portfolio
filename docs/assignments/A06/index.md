@@ -32,3 +32,8 @@ I also learned that tolerances should depend on the function of each feature. Fo
 This assignment helped me relearn the difference between first and third angle projections and how to properly set up an engineering drawing. I also learned more about using parameters and equations in Creo to make a model easier to modify. Creating the drawing helped me improve at placing dimensions, setting tolerances, creating different views, and editing the title block. I also learned how important it is to keep parameter names and dimensions organized throughout the modeling process. Overall, this assignment helped me become more comfortable with Creo and improved my CAD and engineering drawing skills.
 
 This assignment took me 5 hours
+[A66.zip](https://github.com/user-attachments/files/32785027/A66.zip)
+[A6 zipp.zip](https://github.com/user-attachments/files/32785042/A6.zipp.zip)
+
+
+
