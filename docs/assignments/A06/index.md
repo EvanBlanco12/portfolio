@@ -21,7 +21,7 @@ The motor mount was modeled parametrically in Creo using the dimensions determin
 
 ## Reflection 
 A.
-One lesson I learned from this assignment was how to connect engineering calculations to a parametric CAD model. For Feature 2, I used the cantilever beam deflection equation, (\delta = \frac{PL^3}{3EI}), to determine the required thickness. The calculation gave about 9.55 mm, so I used a final thickness of 10 mm. In Creo, I created the parameter FEATURE2_THICKNESS and tied it to that feature so the model could update when the parameter changed.
+One lesson I learned from this assignment was how to connect engineering calculations to a parametric CAD model. For Feature 2, I used the cantilever beam deflection equation, (\delta = \frac(PL^3)(3EI)), to determine the required thickness. The calculation gave about 9.55 mm, so I used a final thickness of 10 mm. In Creo, I created the parameter FEATURE2_THICKNESS and tied it to that feature so the model could update when the parameter changed.
 
 B.
 I also learned that tolerances should depend on the function of each feature. For a functional feature like the motor shaft hole, I used a tighter tolerance such as X.XXX ± 0.005 in because the fit and alignment are important. For a non-critical feature like the overall plate length, I used a looser tolerance such as X.X ± 0.02 in because small changes would not affect the design. Using very tight tolerances on every feature would increase manufacturing cost and make the part harder to produce.
