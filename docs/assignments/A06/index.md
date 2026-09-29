@@ -18,7 +18,7 @@ The motor mount was modeled parametrically in Creo using the dimensions determin
 
 ## Drawing 
 <img width="880" height="722" alt="image" src="https://github.com/user-attachments/assets/b49803ff-fd84-400e-ac20-7ad7120d24ef" />
-
+I then used these dimensions to create a detailed drawing with tolerances to support the manufacturing of the part. I also wanted to include an ASME standard symmetry line, but CREO does not provide a direct way to add one. Instead, I used centerlines in the drawing and included an example of the symmetry line below for reference.
 
 ## Reflection 
 A.
