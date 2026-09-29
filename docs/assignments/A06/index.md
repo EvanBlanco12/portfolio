@@ -20,16 +20,14 @@ The motor mount was modeled parametrically in Creo using the dimensions determin
 
 
 ## Reflection 
-1.
+A.
 One lesson I learned from this assignment was how to connect engineering calculations to a parametric CAD model. For Feature 2, I used the cantilever beam deflection equation, (\delta = \frac{PL^3}{3EI}), to determine the required thickness. The calculation gave about 9.55 mm, so I used a final thickness of 10 mm. In Creo, I created the parameter FEATURE2_THICKNESS and tied it to that feature so the model could update when the parameter changed.
 
-2.
+B.
 I also learned that tolerances should depend on the function of each feature. For a functional feature like the motor shaft hole, I used a tighter tolerance such as X.XXX ± 0.005 in because the fit and alignment are important. For a non-critical feature like the overall plate length, I used a looser tolerance such as X.X ± 0.02 in because small changes would not affect the design. Using very tight tolerances on every feature would increase manufacturing cost and make the part harder to produce.
 
-3.
-This assignment helped me better understand how strength, stiffness, CAD parameters, and engineering drawings work together. I spent about 4 hours completing the calculations, CAD model, drawing, and final documentation.
 
 ## Communicate/Lesson Learned
 This assignment helped me relearn the difference between first and third angle projections and how to properly set up an engineering drawing. I also learned more about using parameters and equations in Creo to make a model easier to modify. Creating the drawing helped me improve at placing dimensions, setting tolerances, creating different views, and editing the title block. I also learned how important it is to keep parameter names and dimensions organized throughout the modeling process. Overall, this assignment helped me become more comfortable with Creo and improved my CAD and engineering drawing skills.
 
-This assignment took me BLANK hours
+This assignment took me 5 hours
