@@ -37,5 +37,9 @@ Outer Loop
 I spent around 5 hours completing this assignment, with most of my time going toward the written portion and making my design changes more complicated than they needed to be. Through this project, I gained a better understanding of how FEA and different mesh settings can help improve a part under various loading conditions. I also saw how changing the mesh density can impact the time needed to run a simulation. Although this wasn't a major issue for my project, I can see how larger and more detailed models could take much longer to analyze. Below, I included a screenshot of my Excel sheet showing the results from each simulation and design. I also provided links to the spreadsheet and all three CAD models.
 
 ## Communicate
+[A7.zip](https://github.com/user-attachments/files/32785027/A66.zip)
+
+
+[A7 zipp.zip](https://github.com/user-attachments/files/32785042/A6.zipp.zip)
 
 
