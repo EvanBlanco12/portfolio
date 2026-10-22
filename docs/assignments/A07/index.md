@@ -15,7 +15,8 @@ Inner Loop
 
 ## Design #2
 Outer Loop
-<img width="1007" height="806" alt="image" src="https://github.com/user-attachments/assets/efd42b10-749b-4fb2-80c6-d9045e77ba0b" />
+<img width="943" height="727" alt="image" src="https://github.com/user-attachments/assets/e544ffdb-3e93-452a-85b4-a62d02e26c07" />
+
 
 
 
