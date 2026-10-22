@@ -24,6 +24,10 @@ To begin the FEA analysis, I first determined the loading conditions and chose t
 ## Design #3
 
 
+## Initial Design 
+<img width="238" height="500" alt="image" src="https://github.com/user-attachments/assets/6e2c7609-5071-4d20-9db4-ddce211a7fcb" />
+<img width="366" height="547" alt="image" src="https://github.com/user-attachments/assets/4687f5c8-f4dc-4293-8863-230d457c4c8f" />
+
 
 
 ## Final Design 
