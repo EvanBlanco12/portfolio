@@ -6,24 +6,22 @@ For this assignment, we used FEA to test and optimize the bracket we created in 
 ## Design #1
 To begin the FEA analysis, I first determined the loading conditions and chose the mesh settings for the bracket. Once everything was set up, I completed three simulations using different mesh sizes to compare the results. Each test provided information on the highest stress, greatest displacement, and lowest factor of safety. This helped me see how changing the mesh affected the accuracy and consistency of the results. The table below shows the data collected from the original bracket, along with the percentage differences between the simulations.
 
-
-
+Inner Loop
+<img width="1019" height="797" alt="image" src="https://github.com/user-attachments/assets/676bbf1a-b143-4236-92b1-0d511e139fa7" />
 
 
 
 
 
 ## Design #2
-
-
+Outer Loop
+<img width="1007" height="806" alt="image" src="https://github.com/user-attachments/assets/efd42b10-749b-4fb2-80c6-d9045e77ba0b" />
 
 
 
 
 
 ## Design #3
-
-
 ## Initial Design 
 <img width="238" height="500" alt="image" src="https://github.com/user-attachments/assets/6e2c7609-5071-4d20-9db4-ddce211a7fcb" />
 <img width="366" height="547" alt="image" src="https://github.com/user-attachments/assets/4687f5c8-f4dc-4293-8863-230d457c4c8f" />
