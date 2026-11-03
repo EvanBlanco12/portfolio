@@ -1,3 +1,5 @@
+
+
 # A8 – [Gears]
 
 ## Objective
@@ -57,5 +59,8 @@ Time Spent
 
 The total time I spent working on this assignment was approximately 5 hours. A good portion of that time went toward understanding the calculations and figuring out how to properly design the gearbox housing. I also spent time adjusting the CAD model, working with the assembly features, and making sure the different components fit together correctly. Overall, this assignment helped me become more comfortable with gearbox design and understand how calculations are applied to an actual mechanical assembly.
 
-
+CAD Files:
+[10 teeth.zip](https://github.com/user-attachments/files/34300473/10.teeth.zip)
+[40 teeth.zip](https://github.com/user-attachments/files/34300479/40.teeth.zip)
+[Assem4.zip](https://github.com/user-attachments/files/34300514/Assem4.zip)
 
