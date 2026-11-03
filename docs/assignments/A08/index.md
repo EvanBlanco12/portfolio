@@ -4,6 +4,12 @@
 For this assignment, we were tasked with designing a gearbox using two spur gears, consisting of a pinion and a larger gear. The given gear ratio is 24:9, with an output torque of 1.25 in-lbf and an output speed of 1100 rpm. The input shaft has a diameter of 0.125 inches, while the output shaft has a diameter of 0.25 inches. Both shafts have a length of 1 inch. The main goal of this assignment is to design a functional gearbox by analyzing the shafts, selecting appropriate journal bearings, and creating a two-piece housing that can be assembled and disassembled.
 
 ## Analyze
+<img width="589" height="790" alt="image" src="https://github.com/user-attachments/assets/2c3f9889-9e2f-416a-936f-ea4c9f925bc5" />
+<img width="577" height="769" alt="image" src="https://github.com/user-attachments/assets/14166377-13ae-42ee-8718-5e12e24df80d" />
+<img width="590" height="766" alt="image" src="https://github.com/user-attachments/assets/5bb4e7ce-97bb-4304-be2c-9e904292288d" />
+<img width="592" height="784" alt="image" src="https://github.com/user-attachments/assets/37a4c397-c53e-4ca6-855a-c38d30adfd64" />
+<img width="589" height="758" alt="image" src="https://github.com/user-attachments/assets/981f51cc-5d63-44eb-a07a-27c2507f62db" />
+<img width="588" height="793" alt="image" src="https://github.com/user-attachments/assets/d658bc4a-2a7b-4bda-81ba-de791b1d81d6" />
 
 
 ## Decide
