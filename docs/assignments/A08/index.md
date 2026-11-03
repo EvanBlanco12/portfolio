@@ -7,7 +7,23 @@ For this assignment, we were tasked with designing a gearbox using two spur gear
 
 
 ## Decide
+McMaster-Carr Bearing Selection 
+These are identifiable products available in McMaster-Carr's catalog and suitable for further evaluation.
 
+Input shaft candidate
+
+McMaster-Carr 6338K561
+Oil-embedded flanged sleeve bearing, SAE 841 bronze.
+Shaft: 1/8 in • Housing bore: 1/4 in • Length: 1/4 in
+View bearing
+
+Output shaft candidate
+McMaster-Carr 7639N11
+Oil-embedded sleeve bearing, SAE 841 bronze.
+Shaft: 1/4 in • Housing bore: 3/8 in • Length: 1/2 in
+View bearing
+
+Both component numbers and dimensions appear in the McMaster-Carr catalog
 
 ## Communicate
 Lessons Learned
