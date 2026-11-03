@@ -61,6 +61,10 @@ The total time I spent working on this assignment was approximately 5 hours. A g
 
 CAD Files:
 [10 teeth.zip](https://github.com/user-attachments/files/34300473/10.teeth.zip)
+
+
 [40 teeth.zip](https://github.com/user-attachments/files/34300479/40.teeth.zip)
+
+
 [Assem4.zip](https://github.com/user-attachments/files/34300514/Assem4.zip)
 
