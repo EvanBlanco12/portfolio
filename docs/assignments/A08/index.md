@@ -31,6 +31,10 @@ View bearing
 
 Both component numbers and dimensions appear in the McMaster-Carr catalog
 
+## CAD Model
+<img width="992" height="644" alt="image" src="https://github.com/user-attachments/assets/e554f41f-cf19-4aa7-a9cd-fadb59614996" />
+
+
 ## Communicate
 Lessons Learned
 
