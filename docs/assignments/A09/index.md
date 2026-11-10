@@ -9,6 +9,9 @@ The purpose of this project was to design a belt and pulley assembly that could 
 ## Decide
 <img width="547" height="277" alt="image" src="https://github.com/user-attachments/assets/83a3fd70-7cfa-4500-b6a3-c82a2ab326cc" />
 
+<img width="1073" height="770" alt="image" src="https://github.com/user-attachments/assets/9b914ed1-ed22-4240-b4d6-9fb4199cc1c6" />
+
+
 
 ## Lesson Learned
 Throughout this assignment, I gained a better understanding of how different parts of a mechanical design work together and how important it is to consider multiple factors when making design decisions. I learned that changing something as simple as belt tension or the distance between pulleys can affect the overall performance of the system. Another important lesson was understanding how material selection and the availability of certain parts can influence a design. Using Ashby plots also helped me compare materials and determine which options would work best for the project.
