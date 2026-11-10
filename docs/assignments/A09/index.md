@@ -7,6 +7,7 @@ The purpose of this project was to design a belt and pulley assembly that could 
 
 
 ## Decide
+<img width="547" height="277" alt="image" src="https://github.com/user-attachments/assets/83a3fd70-7cfa-4500-b6a3-c82a2ab326cc" />
 
 
 ## Lesson Learned
