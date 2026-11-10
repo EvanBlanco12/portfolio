@@ -4,6 +4,15 @@
 The purpose of this project was to design a belt and pulley assembly that could transmit rotational motion between two separate shafts. The design allows for a shaft spacing of 4 to 6 inches, with each pulley measuring 3 inches across. Operating conditions include a rotational speed between 1000 and 2000 RPM and an initial belt tension ranging from 4 to 6 lbf. Materials such as steel, aluminum, and ABS plastic are acceptable for manufacturing the pulleys. The shaft openings and belt grooves can be modified based on the design, provided the system maintains a safety factor of 3.
 
 ## Analyze
+<img width="577" height="798" alt="image" src="https://github.com/user-attachments/assets/16248676-af63-472d-97d6-4b80d946b907" />
+
+<img width="579" height="673" alt="image" src="https://github.com/user-attachments/assets/2038f6df-0356-4bdf-a07f-f2cea42696bf" />
+
+<img width="460" height="575" alt="image" src="https://github.com/user-attachments/assets/02481c26-6b3d-4792-8dbc-d63cb00b263c" />
+
+<img width="577" height="767" alt="image" src="https://github.com/user-attachments/assets/47240ec9-108d-48fa-9e16-f5f4924624dc" />
+
+<img width="431" height="326" alt="image" src="https://github.com/user-attachments/assets/58d6d39f-9804-4c7e-abd8-9b3ad0b5cee3" />
 
 
 ## Decide
