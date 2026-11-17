@@ -9,7 +9,7 @@ The key focus of this project is the design of the lead screw and the dimensions
 <img width="249" height="281" alt="image" src="https://github.com/user-attachments/assets/a57ecb82-a825-457f-a165-841ca2a4810c" />
 
 
-## Analyze (Grady)
+## Screw Diameter (Grady)
 Leadscrew Design 
 McMaster-Carr part number 95072A109
 Material listing: 673 bronze
@@ -24,7 +24,7 @@ Listed outside diameter: 0.5in
 
 <img width="305" height="389" alt="image" src="https://github.com/user-attachments/assets/14214aea-7495-4426-a039-88dc1698a0f1" />
 
-Nut and Flange Selection (Evan)
+## Nut and Flange Selection (Evan)
 Preliminary matching nut: McMaster-Carr part number 95072A109
 Material listing: 673 bronze
 Thread: 1/2 in – 10 Acme, single-start
@@ -37,7 +37,7 @@ Listed outside diameter: 1.125 in
 
 <img width="329" height="425" alt="image" src="https://github.com/user-attachments/assets/50bb573c-53d1-4643-bbb4-bdc95220ae06" />
 
-Crosshead Design
+## Crosshead Design
 Grady
 
 
@@ -53,8 +53,8 @@ jake
 
 <img width="383" height="517" alt="image" src="https://github.com/user-attachments/assets/79c41107-c400-43da-8162-749846712c11" />
 
-Tabulating Costs (Jake)
-## Bill of Materials (BOM)
+## Tabulating Costs (Jake)
+Bill of Materials (BOM)
 
 | Item Number | Quantity | Name | Part Number | Cost Per Item | Total Cost | McMaster-Carr Link |
 |---|---|---|---|---|---|---|
@@ -64,7 +64,7 @@ Tabulating Costs (Jake)
 | 4 | 2 | Aluminum Extrusion (1') | 47065T107 | $10.82 | $21.64 | [View Part](https://www.mcmaster.com/47065T107-47065T418/) |
 | | | | | **Total Cost:** | **$345.42** | |
 
-Solidworks Modeling
+## Solidworks Modeling
 For this assignment we decided to use Solidworks 2025 due to myself having a lot of experience using the software. The first steps to this assembly was to download and constrain the aluminum extrusion in my assembly. 
 
 
@@ -81,4 +81,15 @@ This project gave us a better perspective of how to work in a collaborative envi
 The hand calculations were a difficult portion of this project, as we were trying to learn the math with this concept as we worked through this project. The lead screw torque and speed calculations helped us understand the relationship between the mechanical components and the load being lifted. 
 
 (Grady ) Estimated time spent: 8 hours
+
+https://drive.google.com/file/d/13MK_gmIlnatUi68tKK01akT6jR8U6zMS/view?usp=sharing
+
+https://drive.google.com/file/d/1BkTuy0WSr6zFH3ea23k925uKD80fjn3L/view?usp=sharing
+
+
+
+
+
+
+
 
