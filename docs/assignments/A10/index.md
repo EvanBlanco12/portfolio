@@ -31,17 +31,26 @@ Thread: 1/2 in – 10 Acme, single-start
 Thread fit: Acme Class 2C
 Listed nut length: 3/4 in
 Listed outside diameter: 1.125 in
+
 <img width="221" height="179" alt="image" src="https://github.com/user-attachments/assets/936b0f6f-7d7b-4b5f-8984-f78d8d4ee8e0" />
+
+
 <img width="329" height="425" alt="image" src="https://github.com/user-attachments/assets/50bb573c-53d1-4643-bbb4-bdc95220ae06" />
 
 Crosshead Design
 Grady
+
+
 <img width="304" height="385" alt="image" src="https://github.com/user-attachments/assets/6bfafa8f-eccc-4e64-b619-82c461d43a54" />
 
 Evan
+
+
 <img width="454" height="608" alt="image" src="https://github.com/user-attachments/assets/abeace92-83c7-47da-a608-2e5c8df931af" />
 
 jake
+
+
 <img width="383" height="517" alt="image" src="https://github.com/user-attachments/assets/79c41107-c400-43da-8162-749846712c11" />
 
 Tabulating Costs (Jake)
@@ -57,6 +66,8 @@ Tabulating Costs (Jake)
 
 Solidworks Modeling
 For this assignment we decided to use Solidworks 2025 due to myself having a lot of experience using the software. The first steps to this assembly was to download and constrain the aluminum extrusion in my assembly. 
+
+
 <img width="188" height="314" alt="image" src="https://github.com/user-attachments/assets/d77b58af-32ad-49a2-a3e9-ae2ab6ac4c84" />
 
 
