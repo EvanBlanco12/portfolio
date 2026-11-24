@@ -1,0 +1,29 @@
+# Automatic Window Opener – Project Progress and Research
+
+## 1. Project Progress
+
+My project is an automatic window opener that uses an Arduino to control a servo motor based on environmental conditions. The main components I am using are a 10k thermistor to detect temperature, a photoresistor to detect light, and a servo motor to physically move the window.
+So far, I have made progress assembling the circuit and connecting the sensors and servo motor to the Arduino. I have also started testing the individual components and writing code to make the servo respond when the sensors detect certain conditions.
+One issue I have run into is getting consistent readings from the photoresistor. During testing, the Serial Monitor has been displaying a reading of 1023, which indicates that the analog input is reaching the maximum reading. I am currently troubleshooting the wiring and sensor calibration to get accurate readings. I also need to make sure the servo responds correctly to the sensor values.
+I have made progress toward my scheduled goal, but I have not completely finished the working prototype. I do not think I need to change the overall project idea. Instead, I need to focus on getting each sensor working individually before combining them into the final program. Once both sensors work correctly, I can test the complete system and adjust the conditions that trigger the window to open or close.
+
+## 2. Research on Similar Projects and Commercial Products
+
+After researching similar projects, I found that other people have created automatic window systems using environmental sensors and motors. Many of these projects use an Arduino or another microcontroller to collect sensor readings and control a motor.
+One example I found was a smart rain-detection window project on GitHub. It uses an Arduino Uno, a rain sensor, a temperature and humidity sensor, a light-dependent resistor, and a servo motor. The system detects environmental changes and automatically closes the window when rain is detected. It also includes limit switches to prevent the motor from moving too far. This is similar to my project because both designs use sensors and a servo motor to automate window movement. However, that project includes additional features such as rain detection, an LCD screen, and a buzzer.
+Another project I found was an automatic window opener developed by a student at the University of California, Santa Barbara. This design uses a stepper motor and belt drive to move a sliding window. It also uses temperature sensors to monitor indoor and outdoor conditions. The project includes a current sensor to detect resistance when the window encounters an obstruction. This is different from my design because I am using a servo motor and a simpler sensor setup.
+Commercial automatic window openers are also available. Some commercial systems use an electric actuator and a screw-driven mechanism to physically move the window. These systems are designed to provide controlled movement and can be installed on different window types. Compared with these products, my project is a smaller and less expensive prototype that uses an Arduino, basic sensors, and a servo motor instead of a larger actuator system.
+
+
+
+## Research Sources
+
+1. [Smart Rain Detection and Automatic Window Closer – GitHub](https://github.com/tanvirul-islam-rifat/Smart-Rain-Detection-Window)
+2. [Automatic Window Opener – University of California, Santa Barbara](https://web.ece.ucsb.edu/~yoga/courses/ECE153B/W2018/ProjectProposals/AutomaticWindowOpener.pdf)
+3. [Electric Window Opener Research](https://sensors.myu-group.co.jp/sm_pdf/SM2702.pdf)
+
+## 3. Conclusion and Possible Changes
+
+Overall, my research shows that automatic window systems can be designed in several different ways depending on their purpose and complexity. Some systems focus on detecting rain, while others focus on temperature, humidity, or air quality. My project focuses on using temperature and light to control a window automatically.
+I do not plan to completely change my design because the current components should be enough to demonstrate the main idea. However, I may need to improve the sensor wiring and adjust the code so the servo responds reliably. I could also consider adding a limit switch in the future to prevent the servo mechanism from moving beyond its intended range.
+My next goal is to get consistent readings from both sensors, combine them into one working program, and demonstrate the automatic window movement.
