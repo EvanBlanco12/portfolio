@@ -1,4 +1,5 @@
 # A11 – Motor Selection
+Evan Blanco, Grady Stallings, Jake Umebayashi 
 
 ## Introduction 
 <img width="506" height="428" alt="image" src="https://github.com/user-attachments/assets/4c77d08e-f0c3-4d3e-b124-096ee5094bc2" />
