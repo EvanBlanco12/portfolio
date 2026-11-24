@@ -28,6 +28,8 @@ MMP D22-490D-24V Midwest Motion Products | Motors - AC, DC | DigiKey Marketplace
 
 
 These are photos from the FEA I tried. I’m not sure why this FEA kept failing, but I tried for a decent amount of time before giving up. I truly don’t understand why this analysis wouldn’t converge and give a result unfortunately. 
+
+
 <img width="328" height="413" alt="image" src="https://github.com/user-attachments/assets/c00ed852-0775-448c-a7ee-d66dcbd1da2a" />
 To prevent twisting and joint slip at the vertical standoffs, we used two 4-hole gusseted corner brackets (McMaster-Carr #6812N831) per corner (one on the inner/underside corner and one on the side/back face, providing 4 M8 bolts per rail connection, spaced 40 mm apart
 
